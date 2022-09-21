@@ -4,3 +4,4 @@ Repositorio da materia de inteligencia computacional, para publicacao de trabalh
 
 fique a vontade para olhar.  
 
+teste 
